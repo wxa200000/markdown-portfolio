@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*Serious about doing well*
+_Thoughtful of others_
+
+**Sometimes worries a little too much**
+__Only wants the best for himself__
+
+_I **am** waheed :)_
